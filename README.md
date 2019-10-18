@@ -1,5 +1,9 @@
 # bigwigs
 
+SFPQ session:
+
+https://genome.ucsc.edu/s/maria.vlasenok/hg19_SFPQ_bigwigs
+
 encode:
 
 for SFPQ gene. Region 1:35643500 - 25659000
