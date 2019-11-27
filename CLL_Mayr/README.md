@@ -1,3 +1,5 @@
+3seq_merg - bigwigs merged from all 3'seq samples (only chr1 because whole genome files are too large)
+
 Run	Assay Type	Cell_type	disease_status	LibraryLayout	LibrarySelection	patient_id
 
 SRR6830250	OTHER	B cells CD5+ CD19+	chronic lymphocytic leukemia (CLL)	SINGLE	other	CLL1
